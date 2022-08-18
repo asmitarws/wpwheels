@@ -1,7 +1,7 @@
 const Check = () => {
     return (
         <div className="check">
-            <h2>Hello</h2>
+            <h2>Checking Loaded...!!!</h2>
         </div>
     )
 }
