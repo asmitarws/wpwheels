@@ -1,0 +1,23 @@
+li {
+  display: inline;
+}
+.wpwheels-menus {
+  text-decoration: none;
+}
+
+.wpwheels-menus-item {
+  color: #fff;
+  background-color: #1e193f;
+}
+
+.wpwheels-menus-item:hover {
+  color: rgb(#ffffff, #1e193f, #bcbec0);
+}
+
+.header {
+  color: #1e193f;
+}
+
+.fa.fa-star.highlight {
+  color: #f2b421;
+}
